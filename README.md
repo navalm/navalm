@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 @rapid7
-- ⚡ @fueslabs
+- 🌱 [@rapid7](https://rapid7.com)
+- ⚡ [@fueslabs](https://fues.us)
 - 📫 [navalm.com](https://navalm.com)
 
 <!--
