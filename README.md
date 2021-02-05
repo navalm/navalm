@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+- 🌐 [navalm.com](https://navalm.com)
 - 🌱 [@rapid7](https://rapid7.com)
 - ⚡ [@fueslabs](https://fues.us)
-- 📫 [navalm.com](https://navalm.com)
 
 <!--
 **navalmonga/navalmonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
