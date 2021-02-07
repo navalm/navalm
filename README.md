@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+  <img src="./functions.svg" alt="navalm logo">
+</p>
+<h1 align="center">
+  navalm
+</h1>
 
 - 🌐 [navalm.com](https://navalm.com)
 - 🚀 [@naval](https://figma.com/@naval)
