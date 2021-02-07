@@ -2,10 +2,20 @@
   <img src="./functions.svg" alt="navalm logo" height="74px">
 </h1>
 
-- 🌐 [navalm.com](https://navalm.com)
-- 🚀 [@naval](https://figma.com/@naval)
-- 🌱 [@rapid7](https://rapid7.com)
-- ⚡ [@fueslabs](https://fues.us)
+🌐
+<a href="https://navalm.com" target="_blank">
+  navalm.com
+</a>
+
+🚀
+<a href="https://rapid7.com" target="_blank">
+  @rapid7
+</a>
+
+🌱
+<a href="https://rapid7.com" target="_blank">
+  @fueslabs
+</a>
 
 <!--
 **navalmonga/navalmonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
