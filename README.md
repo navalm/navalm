@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="./functions.svg" alt="navalm logo" height="74px">
-</p>
-<h1 align="center">
-  navalm
+<h1 align="center" style="display: flex; align-items:center; justify-content:center; flex: 1; font-weight: bold;">
+  NAVAL<img src="./functions.svg" alt="navalm logo" height="32px">
 </h1>
 
 - 🌐 [navalm.com](https://navalm.com)
