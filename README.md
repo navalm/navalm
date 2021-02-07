@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./functions.svg" alt="navalm logo">
+  <img src="./functions.svg" alt="navalm logo" height="74px">
 </p>
 <h1 align="center">
   navalm
