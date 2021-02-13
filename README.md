@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="./functions.svg" alt="navalm logo" height="74px">
+  <br/>
+  🌐
+  <a href="https://navalm.com" target="_blank">
+    navalm.com
+  </a>
 </h1>
-
-🌐
-<a href="https://navalm.com" target="_blank">
-  navalm.com
-</a>
 
 🚀
 <a href="https://rapid7.com" target="_blank">
