@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="./functions.svg" alt="navalm logo" height="74px">
   <br/>
-  🌐
   <a href="https://navalm.com" target="_blank">
     navalm.com
   </a>
