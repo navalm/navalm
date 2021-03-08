@@ -1,6 +1,6 @@
-<p align="center" style="background-color:#FFFFF7;">
-<img src="https://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" width="50%" />
-</p>
+<div style="background-color:#FFFFF7;display:flex;justify-content:center;">
+  <img src="https://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" width="50%" />
+</div>
 <h1 align="center">
   <img src="./functions.svg" alt="navalm logo" height="64px">
   <br/>
