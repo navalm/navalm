@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" width="50%" />
 </p>
 <h1 align="center">
   <img src="./functions.svg" alt="navalm logo" height="64px">
