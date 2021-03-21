@@ -1,13 +1,21 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" width="50%" />
-</p>
-<h1 align="center">
   <img src="./functions.svg" alt="navalm logo" height="64px">
   <br/>
   <a href="https://navalm.com" target="_blank">
     navalm.com
   </a>
-</h1>
+  <br/>
+  <a href="https://figma.com/@naval" target="_blank">
+    figma.com/@naval
+  </a>
+  <br/>
+  <a href="https://foundation.app/created" target="_blank">
+    foundation.app/created
+  </a>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" width="50%" />
+</p>
 
 <!--
 **navalmonga/navalmonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
