@@ -6,7 +6,7 @@
   </a>
   <br/>
   <a href="https://y.at/🕹🚀💎🌕" target="_blank">
-    https://y.at/🕹🚀💎🌕
+    y.at/🕹🚀💎🌕
   </a>
 </p>
 <p align="center">
