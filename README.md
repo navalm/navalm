@@ -5,12 +5,8 @@
     navalm.com
   </a>
   <br/>
-  <a href="https://figma.com/@naval" target="_blank">
-    figma.com/@naval
-  </a>
-  <br/>
-  <a href="https://foundation.app/created" target="_blank">
-    foundation.app/created
+  <a href="https://y.at/🕹🚀💎🌕" target="_blank">
+    https://y.at/🕹🚀💎🌕
   </a>
 </p>
 <p align="center">
