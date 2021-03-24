@@ -1,16 +1,10 @@
 <p align="center">
-  <img src="./functions.svg" alt="navalm logo" height="64px">
-  <br/>
   <a href="https://navalm.com" target="_blank">
-    navalm.com
-  </a>
-  <br/>
-  <a href="https://y.at/🕹🚀💎🌕" target="_blank">
-    y.at/🕹🚀💎🌕
+    <img src="./navalm.svg" alt="navalm logo" width="64px">
   </a>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" width="50%" />
+  <img src="https://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" width="75%" />
 </p>
 
 <!--
