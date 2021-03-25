@@ -3,9 +3,11 @@
     <img src="./navalm.svg" alt="navalm logo" width="64px">
   </a>
 </p>
+<!-- cool gif
 <p align="center">
   <img src="https://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" width="75%" />
 </p>
+-->
 
 <!--
 **navalmonga/navalmonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
