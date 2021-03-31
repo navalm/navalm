@@ -3,6 +3,10 @@
     <img src="./navalm.svg" alt="navalm logo" width="64px">
   </a>
 </p>
+
+- [Figma](https://figma.com/@naval)
+- [Notion](https://notion.navalm.com)
+
 <!-- cool gif
 <p align="center">
   <img src="https://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" width="75%" />
