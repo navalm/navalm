@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://navalm.com" target="_blank">
-    <img src="./navalm.svg" alt="navalm logo" width="64px">
+    <img src="./fb-cover.svg" alt="navalm logo" width="820px" height="auto">
   </a>
 </p>
 
