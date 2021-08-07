@@ -8,6 +8,7 @@
   <a href="https://notion.navalm.com" alt="notion navalm">Notion</a>
 </p>
 
+
 <!-- cool gif
 <p align="center">
   <img src="https://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" width="75%" />
