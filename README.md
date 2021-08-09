@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://navalm.com" target="_blank">
-    <img src="./fb-cover.svg" alt="navalm logo" height="420px" width="auto">
-  </a>
-  <br/>
   <a href="https://figma.com/@naval">Figma</a>
   <br/>
   <a href="https://notion.navalm.com" alt="notion navalm">Notion</a>
+  <br/>
+  <a href="https://navalm.com" target="_blank">
+    Portfolio
+  </a>
 </p>
 
 
